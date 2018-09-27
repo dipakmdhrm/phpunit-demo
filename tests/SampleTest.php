@@ -7,7 +7,7 @@ class SampleTest extends PHPUnit_Framework_TestCase {
   }
 
   // Basic fail test.
-  public function test_FalseAssertsToTrue() {
-    $this->assertTrue(false);
-  }
+  // public function test_FalseAssertsToTrue() {
+  //   $this->assertTrue(false);
+  // }
 }
